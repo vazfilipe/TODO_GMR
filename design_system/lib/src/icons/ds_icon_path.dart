@@ -10,7 +10,7 @@ enum DSIconPath {
   pin('$_path/pin.svg'),
   plus('$_path/plus.svg'),
   reminder('$_path/reminder.svg'),
-  smallBell('$_path/smallBell.svg'),
+  smallBell('$_path/small_bell.svg'),
   squarePlus('$_path/squarePlus.svg'),
   trash('$_path/trash.svg');
 
